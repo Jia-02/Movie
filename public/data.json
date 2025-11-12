@@ -1,0 +1,114 @@
+[
+    {
+        "value": "",
+        "theaterName": "\u8acb\u9078\u64c7\u5f71\u57ce"
+    },
+    {
+        "value": "1|TP",
+        "theaterName": "\u53f0\u5317\u4fe1\u7fa9\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "21|MU",
+        "theaterName": "MUVIE CINEMAS \u53f0\u5317\u677e\u4ec1"
+    },
+    {
+        "value": "21|MUC",
+        "theaterName": "MUVIE CINEMAS \u53f0\u5317\u677e\u4ec1(MUCROWN)"
+    },
+    {
+        "value": "35|NL",
+        "theaterName": "\u53f0\u5317\u5357\u6e2f LaLaport\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "12|QS",
+        "theaterName": "\u53f0\u5317\u4eac\u7ad9\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "34|TX",
+        "theaterName": "\u53f0\u5317\u897f\u9580\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "16|BQ",
+        "theaterName": "\u677f\u6a4b\u5927\u9060\u767e\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "30|GM",
+        "theaterName": "\u4e2d\u548c\u74b0\u7403\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "32|HU",
+        "theaterName": "\u65b0\u5e97\u88d5\u9686\u57ce\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "19|LK",
+        "theaterName": "\u6797\u53e3MITSUI OUTLET PARK\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "20|TY",
+        "theaterName": "\u6843\u5712\u7d71\u9818\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "33|TG",
+        "theaterName": "\u6843\u5712\u6843\u77e5\u9053\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "2|HS",
+        "theaterName": "\u65b0\u7af9\u5927\u9060\u767e\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "2|HSGC",
+        "theaterName": "\u65b0\u7af9\u5927\u9060\u767e\u5a01\u79c0\u5f71\u57ce(Gold Class)"
+    },
+    {
+        "value": "14|BC",
+        "theaterName": "\u65b0\u7af9\u5de8\u57ce\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "18|TF",
+        "theaterName": "\u982d\u4efd\u5c1a\u9806\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "15|TZ",
+        "theaterName": "\u53f0\u4e2d\u5927\u9060\u767e\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "3|TT01",
+        "theaterName": "MUVIE CINEMAS \u53f0\u4e2dTIGER CITY"
+    },
+    {
+        "value": "3|TT02",
+        "theaterName": "MUVIE CINEMAS \u53f0\u4e2dTIGER CITY(Gold Class)"
+    },
+    {
+        "value": "31|MM",
+        "theaterName": "\u53f0\u4e2d\u5927\u9b6f\u95a3\u65b0\u6642\u4ee3\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "5|TN",
+        "theaterName": "\u53f0\u5357\u5927\u9060\u767e\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "25|FC",
+        "theaterName": "\u53f0\u5357FOCUS\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "17|NF",
+        "theaterName": "\u53f0\u5357\u5357\u7d21\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "17|NFGC",
+        "theaterName": "\u53f0\u5357\u5357\u7d21\u5a01\u79c0\u5f71\u57ce(Gold Class)"
+    },
+    {
+        "value": "6|KS",
+        "theaterName": "\u9ad8\u96c4\u5927\u9060\u767e\u5a01\u79c0\u5f71\u57ce"
+    },
+    {
+        "value": "6|KSGC",
+        "theaterName": "\u9ad8\u96c4\u5927\u9060\u767e\u5a01\u79c0\u5f71\u57ce(Gold Class)"
+    },
+    {
+        "value": "22|HL",
+        "theaterName": "\u82b1\u84ee\u65b0\u5929\u5802\u6a02\u5712\u5a01\u79c0\u5f71\u57ce"
+    }
+]
